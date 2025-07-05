@@ -610,7 +610,7 @@ li {
 
 /* --------------------------------------------------Contact */
 .contact {
-  background-image: url(/images/hero-bg.jpg);
+  background-image: url(images/hero-bg.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -718,7 +718,7 @@ li {
   background: linear-gradient(to bottom,
       var(--color-secondary),
       var(--color-secondary-m)),
-    url("/images/footer-bg.jpg");
+    url("images/footer-bg.jpg");
 
   background-size: cover;
   background-position: center;
