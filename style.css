@@ -317,7 +317,7 @@ li {
 }
 
 .personal-info__img::before {
-  background-image: url("/images/dot.png");
+  background-image: url("images/dot.png");
   width: 50%;
   height: 50%;
   top: -6.5%;
